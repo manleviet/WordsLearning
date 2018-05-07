@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Apple</string>
+	<string>Bear</string>
+	<string>Car</string>
+	<string>Dog</string>
+	<string>Elephant</string>
+	<string>Fish</string>
+	<string>Gift</string>
+	<string>Horse</string>
+	<string>Ice Cream</string>
+	<string>Juice</string>
+	<string>Kite</string>
+	<string>Lemon</string>
+	<string>Moon</string>
+	<string>Nose</string>
+	<string>Ocean</string>
+	<string>Plane</string>
+	<string>Queen</string>
+	<string>Room</string>
+	<string>Sand</string>
+	<string>Table</string>
+	<string>Umbrella</string>
+	<string>Violin</string>
+	<string>Water</string>
+	<string>Xmas Tree</string>
+	<string>Yoyo</string>
+	<string>Zoo</string>
+	<string>Red</string>
+	<string>Green</string>
+	<string>Yellow</string>
+	<string>Orange</string>
+	<string>Pink</string>
+	<string>Purple</string>
+	<string>Blue</string>
+	<string>Gray</string>
+	<string>Brown</string>
+	<string>White</string>
+	<string>Black</string>
+	<string>One</string>
+	<string>Two</string>
+	<string>Three</string>
+	<string>Four</string>
+	<string>Five</string>
+	<string>Six</string>
+	<string>Seven</string>
+	<string>Eight</string>
+	<string>Nine</string>
+	<string>Ten</string>
+	<string>Eleven</string>
+	<string>Twelve</string>
+</array>
+</plist>
